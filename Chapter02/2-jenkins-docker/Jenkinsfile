@@ -1,7 +1,7 @@
 def mainDir="Chapter02/2-jenkins-docker"
 def ecrLoginHelper="docker-credential-ecr-login"
 def region="us-west-2"
-def ecrUrl="public.ecr.aws/s4u5s3f8/jkson"
+def ecrUrl="217080952624.dkr.ecr.us-west-2.amazonaws.com"
 def repository="jkson"
 def deployHost="172.31.61.91"
 
